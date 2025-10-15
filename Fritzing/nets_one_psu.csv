@@ -1,0 +1,56 @@
+,Net Name,# Nodes,External?
+0,AUX PSU C2 -24,65,TRUE
+1,AUX PSU C2 +24,34,TRUE
+2,PLC I-05,5,FALSE
+3,Level Switch -,5,TRUE
+4,PLC O-10,3,FALSE
+5,PLC O-09,3,FALSE
+6,PLC O-08,3,FALSE
+7,PLC O-07,3,FALSE
+8,PLC O-06,3,FALSE
+9,Waste Pump Contactor +,3,TRUE
+10,MAV RL PA1,3,FALSE
+11,MWV RL PA1,3,FALSE
+12,PLC O-03,3,FALSE
+13,PLC O-04,3,FALSE
+14,PLC O-05,3,FALSE
+15,PLC O-00,3,FALSE
+16,PLC O-02,3,FALSE
+17,Pressure Washer Contactor +,2,TRUE
+18,MAV RL PA2,2,FALSE
+19,PLC O-01,2,FALSE
+20,MAV PLC RL P12,2,FALSE
+21,Stop Button -,2,TRUE
+22,Pause Button -,2,TRUE
+23,Start Button -,2,TRUE
+24,Pumping Indicator +,2,TRUE
+25,Drying Indicator +,2,TRUE
+26,Washing Indicator +,2,TRUE
+27,Error Light +,2,TRUE
+28,Start Light +,2,TRUE
+29,Pause Light +,2,TRUE
+30,Stop Light +,2,TRUE
+31,PLC  PSU C1 -24,2,TRUE
+32,PLC  PSU C1 +24,2,TRUE
+33,Valve 2-4 p3,2,TRUE
+34,Valve 2-4 p1,2,TRUE
+35,Valve 2-3 p3,2,TRUE
+36,Valve 2-3 p1,2,TRUE
+37,Valve 2-2 p3,2,TRUE
+38,Valve 2-2 p1,2,TRUE
+39,Valve 2-1 p3,2,TRUE
+40,Valve 2-1 p1,2,TRUE
+41,Valve 1-4 p3,2,TRUE
+42,Valve 1-4 p1,2,TRUE
+43,Water Valve p3,2,TRUE
+44,Water Valve p1,2,TRUE
+45,Air Valve p3,2,TRUE
+46,Air Valve p1,2,TRUE
+47,Valve 1-3 p3,2,TRUE
+48,Valve 1-3 p1,2,TRUE
+49,Valve 1-2 p3,2,TRUE
+50,Valve 1-2 p1,2,TRUE
+51,Valve 1-1 p3,2,TRUE
+52,Valve 1-1 p1,2,TRUE
+,,,
+,,167,

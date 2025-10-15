@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.7in' height='3.3in' viewBox='0 0 50.4 237.6' >
+<g partID='57810'><g xmlns="http://www.w3.org/2000/svg" id="schematic">
+<rect stroke-width="0.9" width="21.15" stroke="#000000" xmlns="http://www.w3.org/2000/svg" x="14.4" height="236.7" stroke-linejoin="round" fill="none" y="0.45" stroke-linecap="round"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label" x="25.2" font-size="3.5" text-anchor="middle" fill="#000000" y="111.7">IC</text>
+<line stroke-width="0.699998" y1="7.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="7.2" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="1" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector0pin" x="0" height="0.699998" fill="none" y="6.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector0terminal" x="0" height="0.699998" fill="none" y="6.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label0" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="7.89998">1</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="6.15">1</text>
+<line stroke-width="0.699998" y1="14.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="14.4" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="2" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector1pin" x="0" height="0.699998" fill="none" y="14.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector1terminal" x="0" height="0.699998" fill="none" y="14.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label1" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="15.1">2</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="13.35">2</text>
+<line stroke-width="0.699998" y1="21.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="21.6" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="3" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector2pin" x="0" height="0.699998" fill="none" y="21.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector2terminal" x="0" height="0.699998" fill="none" y="21.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label2" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="22.3">3</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="20.55">3</text>
+<line stroke-width="0.699998" y1="28.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="28.8" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="4" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector3pin" x="0" height="0.699998" fill="none" y="28.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector3terminal" x="0" height="0.699998" fill="none" y="28.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label3" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="29.5">4</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="27.75">4</text>
+<line stroke-width="0.699998" y1="36" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="36" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="5" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector4pin" x="0" height="0.699998" fill="none" y="35.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector4terminal" x="0" height="0.699998" fill="none" y="35.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label4" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="36.7">5</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="34.95">5</text>
+<line stroke-width="0.699998" y1="43.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="43.2" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="6" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector5pin" x="0" height="0.699998" fill="none" y="42.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector5terminal" x="0" height="0.699998" fill="none" y="42.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label5" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="43.9">6</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="42.15">6</text>
+<line stroke-width="0.699998" y1="50.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="50.4" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="7" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector6pin" x="0" height="0.699998" fill="none" y="50.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector6terminal" x="0" height="0.699998" fill="none" y="50.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label6" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="51.1">7</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="49.35">7</text>
+<line stroke-width="0.699998" y1="57.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="57.6" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="8" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector7pin" x="0" height="0.699998" fill="none" y="57.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector7terminal" x="0" height="0.699998" fill="none" y="57.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label7" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="58.3">8</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="56.55">8</text>
+<line stroke-width="0.699998" y1="64.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="64.8" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="9" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector8pin" x="0" height="0.699998" fill="none" y="64.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector8terminal" x="0" height="0.699998" fill="none" y="64.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label8" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="65.5">9</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="63.75">9</text>
+<line stroke-width="0.699998" y1="72" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="72" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="10" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector9pin" x="0" height="0.699998" fill="none" y="71.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector9terminal" x="0" height="0.699998" fill="none" y="71.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label9" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="72.6998">10</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="70.95">10</text>
+<line stroke-width="0.699998" y1="79.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="79.2" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="11" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector10pin" x="0" height="0.699998" fill="none" y="78.8501"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector10terminal" x="0" height="0.699998" fill="none" y="78.8501"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label10" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="79.8998">11</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="78.1502">11</text>
+<line stroke-width="0.699998" y1="86.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="86.4" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="12" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector11pin" x="0" height="0.699998" fill="none" y="86.0501"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector11terminal" x="0" height="0.699998" fill="none" y="86.0501"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label11" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="87.0998">12</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="85.3502">12</text>
+<line stroke-width="0.699998" y1="93.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="93.6" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="13" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector12pin" x="0" height="0.699998" fill="none" y="93.2501"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector12terminal" x="0" height="0.699998" fill="none" y="93.2501"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label12" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="94.2998">13</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="92.5502">13</text>
+<line stroke-width="0.699998" y1="100.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="100.8" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="14" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector13pin" x="0" height="0.699998" fill="none" y="100.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector13terminal" x="0" height="0.699998" fill="none" y="100.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label13" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="101.5">14</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="99.7502">14</text>
+<line stroke-width="0.699998" y1="108" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="108" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="15" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector14pin" x="0" height="0.699998" fill="none" y="107.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector14terminal" x="0" height="0.699998" fill="none" y="107.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label14" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="108.7">15</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="106.95">15</text>
+<line stroke-width="0.699998" y1="115.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="115.2" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="16" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector15pin" x="0" height="0.699998" fill="none" y="114.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector15terminal" x="0" height="0.699998" fill="none" y="114.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label15" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="115.9">16</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="114.15">16</text>
+<line stroke-width="0.699998" y1="122.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="122.4" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="17" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector16pin" x="0" height="0.699998" fill="none" y="122.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector16terminal" x="0" height="0.699998" fill="none" y="122.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label16" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="123.1">17</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="121.35">17</text>
+<line stroke-width="0.699998" y1="129.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="129.6" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="18" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector17pin" x="0" height="0.699998" fill="none" y="129.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector17terminal" x="0" height="0.699998" fill="none" y="129.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label17" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="130.3">18</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="128.55">18</text>
+<line stroke-width="0.699998" y1="136.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="136.8" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="19" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector18pin" x="0" height="0.699998" fill="none" y="136.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector18terminal" x="0" height="0.699998" fill="none" y="136.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label18" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="137.5">19</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="135.75">19</text>
+<line stroke-width="0.699998" y1="144" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="144" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="20" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector19pin" x="0" height="0.699998" fill="none" y="143.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector19terminal" x="0" height="0.699998" fill="none" y="143.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label19" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="144.7">20</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="142.95">20</text>
+<line stroke-width="0.699998" y1="151.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="151.2" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="21" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector20pin" x="0" height="0.699998" fill="none" y="150.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector20terminal" x="0" height="0.699998" fill="none" y="150.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label20" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="151.9">21</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="150.15">21</text>
+<line stroke-width="0.699998" y1="158.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="158.4" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="22" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector21pin" x="0" height="0.699998" fill="none" y="158.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector21terminal" x="0" height="0.699998" fill="none" y="158.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label21" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="159.1">22</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="157.35">22</text>
+<line stroke-width="0.699998" y1="165.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="165.6" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="23" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector22pin" x="0" height="0.699998" fill="none" y="165.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector22terminal" x="0" height="0.699998" fill="none" y="165.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label22" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="166.3">23</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="164.55">23</text>
+<line stroke-width="0.699998" y1="172.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="172.8" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="24" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector23pin" x="0" height="0.699998" fill="none" y="172.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector23terminal" x="0" height="0.699998" fill="none" y="172.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label23" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="173.5">24</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="171.75">24</text>
+<line stroke-width="0.699998" y1="180" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="180" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="25" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector24pin" x="0" height="0.699998" fill="none" y="179.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector24terminal" x="0" height="0.699998" fill="none" y="179.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label24" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="180.7">25</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="178.95">25</text>
+<line stroke-width="0.699998" y1="187.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="187.2" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="26" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector25pin" x="0" height="0.699998" fill="none" y="186.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector25terminal" x="0" height="0.699998" fill="none" y="186.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label25" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="187.9">26</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="186.15">26</text>
+<line stroke-width="0.699998" y1="194.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="194.4" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="27" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector26pin" x="0" height="0.699998" fill="none" y="194.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector26terminal" x="0" height="0.699998" fill="none" y="194.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label26" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="195.1">27</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="193.35">27</text>
+<line stroke-width="0.699998" y1="201.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="201.6" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="28" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector27pin" x="0" height="0.699998" fill="none" y="201.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector27terminal" x="0" height="0.699998" fill="none" y="201.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label27" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="202.3">28</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="200.55">28</text>
+<line stroke-width="0.699998" y1="208.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="208.8" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="29" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector28pin" x="0" height="0.699998" fill="none" y="208.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector28terminal" x="0" height="0.699998" fill="none" y="208.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label28" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="209.5">29</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="207.75">29</text>
+<line stroke-width="0.699998" y1="216" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="216" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="30" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector29pin" x="0" height="0.699998" fill="none" y="215.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector29terminal" x="0" height="0.699998" fill="none" y="215.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label29" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="216.7">30</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="214.95">30</text>
+<line stroke-width="0.699998" y1="223.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="223.2" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="31" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector30pin" x="0" height="0.699998" fill="none" y="222.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector30terminal" x="0" height="0.699998" fill="none" y="222.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label30" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="223.9">31</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="222.15">31</text>
+<line stroke-width="0.699998" y1="230.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="230.4" stroke-linejoin="round" x1="0.349999" fill="none" x2="14.4" stroke-linecap="round"/>
+<rect connectorName="32" stroke-width="0" width="14.4" xmlns="http://www.w3.org/2000/svg" id="connector31pin" x="0" height="0.699998" fill="none" y="230.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector31terminal" x="0" height="0.699998" fill="none" y="230.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label31" x="15.8" font-size="3.5" text-anchor="start" fill="#8c8c8c" y="231.1">32</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="7.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="229.35">32</text>
+<line stroke-width="0.699998" y1="7.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="7.2" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="64" xmlns="http://www.w3.org/2000/svg" id="connector63pin" x="36" height="0.699998" fill="none" y="6.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector63terminal" x="50.4" height="0.699998" fill="none" y="6.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label63" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="7.89998">64</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="6.15">64</text>
+<line stroke-width="0.699998" y1="14.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="14.4" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="63" xmlns="http://www.w3.org/2000/svg" id="connector62pin" x="36" height="0.699998" fill="none" y="14.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector62terminal" x="50.4" height="0.699998" fill="none" y="14.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label62" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="15.1">63</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="13.35">63</text>
+<line stroke-width="0.699998" y1="21.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="21.6" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="62" xmlns="http://www.w3.org/2000/svg" id="connector61pin" x="36" height="0.699998" fill="none" y="21.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector61terminal" x="50.4" height="0.699998" fill="none" y="21.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label61" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="22.3">62</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="20.55">62</text>
+<line stroke-width="0.699998" y1="28.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="28.8" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="61" xmlns="http://www.w3.org/2000/svg" id="connector60pin" x="36" height="0.699998" fill="none" y="28.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector60terminal" x="50.4" height="0.699998" fill="none" y="28.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label60" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="29.5">61</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="27.75">61</text>
+<line stroke-width="0.699998" y1="36" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="36" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="60" xmlns="http://www.w3.org/2000/svg" id="connector59pin" x="36" height="0.699998" fill="none" y="35.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector59terminal" x="50.4" height="0.699998" fill="none" y="35.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label59" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="36.7">60</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="34.95">60</text>
+<line stroke-width="0.699998" y1="43.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="43.2" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="59" xmlns="http://www.w3.org/2000/svg" id="connector58pin" x="36" height="0.699998" fill="none" y="42.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector58terminal" x="50.4" height="0.699998" fill="none" y="42.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label58" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="43.9">59</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="42.15">59</text>
+<line stroke-width="0.699998" y1="50.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="50.4" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="58" xmlns="http://www.w3.org/2000/svg" id="connector57pin" x="36" height="0.699998" fill="none" y="50.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector57terminal" x="50.4" height="0.699998" fill="none" y="50.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label57" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="51.1">58</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="49.35">58</text>
+<line stroke-width="0.699998" y1="57.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="57.6" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="57" xmlns="http://www.w3.org/2000/svg" id="connector56pin" x="36" height="0.699998" fill="none" y="57.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector56terminal" x="50.4" height="0.699998" fill="none" y="57.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label56" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="58.3">57</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="56.55">57</text>
+<line stroke-width="0.699998" y1="64.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="64.8" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="56" xmlns="http://www.w3.org/2000/svg" id="connector55pin" x="36" height="0.699998" fill="none" y="64.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector55terminal" x="50.4" height="0.699998" fill="none" y="64.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label55" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="65.5">56</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="63.75">56</text>
+<line stroke-width="0.699998" y1="72" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="72" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="55" xmlns="http://www.w3.org/2000/svg" id="connector54pin" x="36" height="0.699998" fill="none" y="71.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector54terminal" x="50.4" height="0.699998" fill="none" y="71.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label54" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="72.6998">55</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="70.95">55</text>
+<line stroke-width="0.699998" y1="79.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="79.2" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="54" xmlns="http://www.w3.org/2000/svg" id="connector53pin" x="36" height="0.699998" fill="none" y="78.8501"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector53terminal" x="50.4" height="0.699998" fill="none" y="78.8501"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label53" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="79.8998">54</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="78.1502">54</text>
+<line stroke-width="0.699998" y1="86.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="86.4" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="53" xmlns="http://www.w3.org/2000/svg" id="connector52pin" x="36" height="0.699998" fill="none" y="86.0501"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector52terminal" x="50.4" height="0.699998" fill="none" y="86.0501"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label52" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="87.0998">53</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="85.3502">53</text>
+<line stroke-width="0.699998" y1="93.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="93.6" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="52" xmlns="http://www.w3.org/2000/svg" id="connector51pin" x="36" height="0.699998" fill="none" y="93.2501"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector51terminal" x="50.4" height="0.699998" fill="none" y="93.2501"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label51" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="94.2998">52</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="92.5502">52</text>
+<line stroke-width="0.699998" y1="100.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="100.8" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="51" xmlns="http://www.w3.org/2000/svg" id="connector50pin" x="36" height="0.699998" fill="none" y="100.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector50terminal" x="50.4" height="0.699998" fill="none" y="100.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label50" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="101.5">51</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="99.7502">51</text>
+<line stroke-width="0.699998" y1="108" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="108" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="50" xmlns="http://www.w3.org/2000/svg" id="connector49pin" x="36" height="0.699998" fill="none" y="107.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector49terminal" x="50.4" height="0.699998" fill="none" y="107.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label49" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="108.7">50</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="106.95">50</text>
+<line stroke-width="0.699998" y1="115.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="115.2" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="49" xmlns="http://www.w3.org/2000/svg" id="connector48pin" x="36" height="0.699998" fill="none" y="114.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector48terminal" x="50.4" height="0.699998" fill="none" y="114.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label48" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="115.9">49</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="114.15">49</text>
+<line stroke-width="0.699998" y1="122.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="122.4" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="48" xmlns="http://www.w3.org/2000/svg" id="connector47pin" x="36" height="0.699998" fill="none" y="122.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector47terminal" x="50.4" height="0.699998" fill="none" y="122.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label47" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="123.1">48</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="121.35">48</text>
+<line stroke-width="0.699998" y1="129.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="129.6" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="47" xmlns="http://www.w3.org/2000/svg" id="connector46pin" x="36" height="0.699998" fill="none" y="129.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector46terminal" x="50.4" height="0.699998" fill="none" y="129.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label46" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="130.3">47</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="128.55">47</text>
+<line stroke-width="0.699998" y1="136.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="136.8" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="46" xmlns="http://www.w3.org/2000/svg" id="connector45pin" x="36" height="0.699998" fill="none" y="136.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector45terminal" x="50.4" height="0.699998" fill="none" y="136.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label45" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="137.5">46</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="135.75">46</text>
+<line stroke-width="0.699998" y1="144" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="144" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="45" xmlns="http://www.w3.org/2000/svg" id="connector44pin" x="36" height="0.699998" fill="none" y="143.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector44terminal" x="50.4" height="0.699998" fill="none" y="143.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label44" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="144.7">45</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="142.95">45</text>
+<line stroke-width="0.699998" y1="151.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="151.2" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="44" xmlns="http://www.w3.org/2000/svg" id="connector43pin" x="36" height="0.699998" fill="none" y="150.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector43terminal" x="50.4" height="0.699998" fill="none" y="150.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label43" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="151.9">44</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="150.15">44</text>
+<line stroke-width="0.699998" y1="158.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="158.4" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="43" xmlns="http://www.w3.org/2000/svg" id="connector42pin" x="36" height="0.699998" fill="none" y="158.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector42terminal" x="50.4" height="0.699998" fill="none" y="158.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label42" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="159.1">43</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="157.35">43</text>
+<line stroke-width="0.699998" y1="165.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="165.6" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="42" xmlns="http://www.w3.org/2000/svg" id="connector41pin" x="36" height="0.699998" fill="none" y="165.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector41terminal" x="50.4" height="0.699998" fill="none" y="165.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label41" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="166.3">42</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="164.55">42</text>
+<line stroke-width="0.699998" y1="172.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="172.8" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="41" xmlns="http://www.w3.org/2000/svg" id="connector40pin" x="36" height="0.699998" fill="none" y="172.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector40terminal" x="50.4" height="0.699998" fill="none" y="172.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label40" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="173.5">41</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="171.75">41</text>
+<line stroke-width="0.699998" y1="180" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="180" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="40" xmlns="http://www.w3.org/2000/svg" id="connector39pin" x="36" height="0.699998" fill="none" y="179.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector39terminal" x="50.4" height="0.699998" fill="none" y="179.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label39" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="180.7">40</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="178.95">40</text>
+<line stroke-width="0.699998" y1="187.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="187.2" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="39" xmlns="http://www.w3.org/2000/svg" id="connector38pin" x="36" height="0.699998" fill="none" y="186.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector38terminal" x="50.4" height="0.699998" fill="none" y="186.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label38" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="187.9">39</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="186.15">39</text>
+<line stroke-width="0.699998" y1="194.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="194.4" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="38" xmlns="http://www.w3.org/2000/svg" id="connector37pin" x="36" height="0.699998" fill="none" y="194.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector37terminal" x="50.4" height="0.699998" fill="none" y="194.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label37" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="195.1">38</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="193.35">38</text>
+<line stroke-width="0.699998" y1="201.6" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="201.6" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="37" xmlns="http://www.w3.org/2000/svg" id="connector36pin" x="36" height="0.699998" fill="none" y="201.25"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector36terminal" x="50.4" height="0.699998" fill="none" y="201.25"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label36" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="202.3">37</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="200.55">37</text>
+<line stroke-width="0.699998" y1="208.8" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="208.8" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="36" xmlns="http://www.w3.org/2000/svg" id="connector35pin" x="36" height="0.699998" fill="none" y="208.45"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector35terminal" x="50.4" height="0.699998" fill="none" y="208.45"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label35" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="209.5">36</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="207.75">36</text>
+<line stroke-width="0.699998" y1="216" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="216" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="35" xmlns="http://www.w3.org/2000/svg" id="connector34pin" x="36" height="0.699998" fill="none" y="215.65"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector34terminal" x="50.4" height="0.699998" fill="none" y="215.65"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label34" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="216.7">35</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="214.95">35</text>
+<line stroke-width="0.699998" y1="223.2" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="223.2" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="34" xmlns="http://www.w3.org/2000/svg" id="connector33pin" x="36" height="0.699998" fill="none" y="222.85"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector33terminal" x="50.4" height="0.699998" fill="none" y="222.85"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label33" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="223.9">34</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="222.15">34</text>
+<line stroke-width="0.699998" y1="230.4" stroke="#787878" xmlns="http://www.w3.org/2000/svg" y2="230.4" stroke-linejoin="round" x1="35.65" fill="none" x2="50.05" stroke-linecap="round"/>
+<rect stroke-width="0" width="14.4" connectorname="33" xmlns="http://www.w3.org/2000/svg" id="connector32pin" x="36" height="0.699998" fill="none" y="230.05"/>
+<g stroke-width="0" width="0" xmlns="http://www.w3.org/2000/svg" id="connector32terminal" x="50.4" height="0.699998" fill="none" y="230.05"/>
+<text font-family="'Droid Sans'" stroke="none" xmlns="http://www.w3.org/2000/svg" id="label32" x="34.6" font-size="3.5" text-anchor="end" fill="#8c8c8c" y="231.1">33</text>
+<text class="text" stroke-width="0" font-family="Droid Sans" stroke="none" xmlns="http://www.w3.org/2000/svg" x="43.2" font-size="2.5" text-anchor="middle" fill="#8c8c8c" y="229.35">33</text>
+</g>
+</g></svg>

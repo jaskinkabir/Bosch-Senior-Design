@@ -1,0 +1,30 @@
+,Net Name,# Nodes,External?,Type
+0,MAV LiS -,5,True,PLC Input
+1,MWV LS-,5,True,PLC Input
+2,Start Light +,2,True,PLC Output
+3,Pause Light +,2,True,PLC Output
+4,Stop Light +,2,True,PLC Output
+5,AUX PSU C1 -24,23,True,Interconnection
+6,Waste Pump Contactor +,3,True,Logical Output
+7,Pressure Washer Contactor +,2,True,Logical Output
+8,AUX PSU C2 +24,13,True,AUX PSU C2 +24
+9,WP LS RL P14,2,False,Interconnection
+10,MAV LiS+,2,True,Logical Output
+11,MWV LS+,2,True,Logical Output
+12,PLC O-00,3,False,PLC Output
+13,PLC O-01,2,False,PLC Output
+14,PLC O-02,3,False,PLC Output
+15,PW PLC RL PA1,3,False,Interconnection
+16,MAV PLC RL P12,2,False,Interconnection
+17,Stop Button -,2,True,PLC Input
+18,Pause Button -,2,True,PLC Input
+19,Start Button -,2,True,PLC Input
+20,Level Switch -,5,True,PLC Input
+21,PLC  PSU C1 -24,2,True,PLC  PSU C1 -24
+22,PLC  PSU C1 +24,2,True,PLC  PSU C1 +24
+23,Air Valve p3,2,True,Logical Output
+24,Air Valve p1,2,True,Logical Output
+25,Water Valve p3,2,True,Logical Output
+26,Water Valve p1,2,True,Logical Output
+27,MAV RL1 PA2,3,False,Interconnection
+28,MWV RL1 PA2,3,False,Interconnection

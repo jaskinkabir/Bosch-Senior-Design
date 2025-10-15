@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<netlist sketch="PLC_Diag_3.fzz" date="Fri Aug 30 05:04:21 2024">
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="LS +" title="Net Label" id="855319020"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="Button Panel +" title="Net Label" id="855319000"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="PW PLC RL" title="DPDT Relay" id="59900"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="PW PLC RL" title="DPDT Relay" id="59900"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="MAV PLC RL" title="DPDT Relay" id="59880"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="WP PLC RL" title="DPDT Relay" id="59090"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="WP LS RL" title="DPDT Relay" id="59860"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="PLC  PSU C2 +24" title="Net Label" id="855108580"/>
+  </connector>
+  <connector id="connector2" name="+CM0">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector8" name="+CM1">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector16" name="+CM2">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector24" name="+CM3">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="WP CT -" title="Net Label" id="855305660"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="PW PLC RL" title="DPDT Relay" id="59900"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="PW PLC RL" title="DPDT Relay" id="59900"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="PW CT -" title="Net Label" id="855305640"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="PW PLC RP" title="Diode" id="854105130"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="Button Panel -" title="Net Label" id="855305620"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="MWV RP" title="Diode" id="854689550"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="V1-3 RL" title="DPDT Relay" id="854770770"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="MWV RL" title="DPDT Relay" id="854689530"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="V1-3 RP" title="Diode" id="854770780"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="V1-2 RL" title="DPDT Relay" id="854770810"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="V1-2 RP" title="Diode" id="854770820"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="V1-1 RP" title="Diode" id="854770860"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="PW PLC RL" title="DPDT Relay" id="59900"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="V1-1 RL" title="DPDT Relay" id="854770850"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="MAV PLC RL" title="DPDT Relay" id="59880"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="MAV PLC RL" title="DPDT Relay" id="59880"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="MAV PLC RP" title="Diode" id="854104690"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="WP LS RL" title="DPDT Relay" id="59860"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="V2-4 RP" title="Diode" id="854689630"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="MAV PLC RL" title="DPDT Relay" id="59880"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="V2-4 RL" title="DPDT Relay" id="854689610"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="V2-3 RL" title="DPDT Relay" id="854689620"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="V2-3 RP" title="Diode" id="854689640"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="WP LS RP" title="Diode" id="854104530"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="WP LS RL" title="DPDT Relay" id="59860"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="V2-2 RL" title="DPDT Relay" id="854928360"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="WP PLC RL" title="DPDT Relay" id="59090"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="V2-2 RP" title="Diode" id="854928380"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="WP PLC RP" title="Diode" id="854107290"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="V2-1 RL" title="DPDT Relay" id="854928350"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="V2-1 RP" title="Diode" id="854928370"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="PLC  PSU C2 -24" title="Net Label" id="855108570"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part label="V1-4 RP" title="Diode" id="854928390"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="V1-4 RL" title="DPDT Relay" id="854928340"/>
+  </connector>
+  <connector id="connector63" name="COM0">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector15" name="-CM1">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector56" name="COM1">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector7" name="-CM0">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector23" name="-CM2">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector29" name="-CM3">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector49" name="COM2">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector40" name="COM3">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part label="V2-4 RP" title="Diode" id="854689630"/>
+  </connector>
+  <connector id="connector0" name="A1">
+   <part label="V2-4 RL" title="DPDT Relay" id="854689610"/>
+  </connector>
+  <connector id="connector17" name="O-10">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part label="V2-3 RP" title="Diode" id="854689640"/>
+  </connector>
+  <connector id="connector0" name="A1">
+   <part label="V2-3 RL" title="DPDT Relay" id="854689620"/>
+  </connector>
+  <connector id="connector14" name="O-09">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part label="V2-2 RP" title="Diode" id="854928380"/>
+  </connector>
+  <connector id="connector0" name="A1">
+   <part label="V2-2 RL" title="DPDT Relay" id="854928360"/>
+  </connector>
+  <connector id="connector13" name="O-08">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part label="V2-1 RP" title="Diode" id="854928370"/>
+  </connector>
+  <connector id="connector0" name="A1">
+   <part label="V2-1 RL" title="DPDT Relay" id="854928350"/>
+  </connector>
+  <connector id="connector12" name="O-07">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part label="V1-4 RP" title="Diode" id="854928390"/>
+  </connector>
+  <connector id="connector0" name="A1">
+   <part label="V1-4 RL" title="DPDT Relay" id="854928340"/>
+  </connector>
+  <connector id="connector11" name="O-06">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="AUX PSU C2 +24" title="Net Label" id="855102790"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="V1-4 RL" title="DPDT Relay" id="854928340"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="V1-4 RL" title="DPDT Relay" id="854928340"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="V2-1 RL" title="DPDT Relay" id="854928350"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="V2-1 RL" title="DPDT Relay" id="854928350"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="V2-2 RL" title="DPDT Relay" id="854928360"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="V2-2 RL" title="DPDT Relay" id="854928360"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="V2-3 RL" title="DPDT Relay" id="854689620"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="V2-3 RL" title="DPDT Relay" id="854689620"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="V2-4 RL" title="DPDT Relay" id="854689610"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="V2-4 RL" title="DPDT Relay" id="854689610"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="AUX PSU C2 -24" title="Net Label" id="855102780"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="V1-4 RL" title="DPDT Relay" id="854928340"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="V1-4 RL" title="DPDT Relay" id="854928340"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="V2-1 RL" title="DPDT Relay" id="854928350"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="V2-1 RL" title="DPDT Relay" id="854928350"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="V2-2 RL" title="DPDT Relay" id="854928360"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="V2-2 RL" title="DPDT Relay" id="854928360"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="V2-3 RL" title="DPDT Relay" id="854689620"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="V2-3 RL" title="DPDT Relay" id="854689620"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="V2-4 RL" title="DPDT Relay" id="854689610"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="V2-4 RL" title="DPDT Relay" id="854689610"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="12">
+   <part label="V1-2 RL" title="DPDT Relay" id="854770810"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="V1-1 RL" title="DPDT Relay" id="854770850"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="AUX PSU C1 -24" title="Net Label" id="855101070"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="V1-1 RL" title="DPDT Relay" id="854770850"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="V1-2 RL" title="DPDT Relay" id="854770810"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="V1-3 RL" title="DPDT Relay" id="854770770"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="V1-3 RL" title="DPDT Relay" id="854770770"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="MAV RL" title="DPDT Relay" id="854689510"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="MAV RL" title="DPDT Relay" id="854689510"/>
+  </connector>
+  <connector id="connector6" name="24">
+   <part label="MWV RL" title="DPDT Relay" id="854689530"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="MWV RL" title="DPDT Relay" id="854689530"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="22">
+   <part label="V1-2 RL" title="DPDT Relay" id="854770810"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="V1-3 RL" title="DPDT Relay" id="854770770"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="V1-2 RL" title="DPDT Relay" id="854770810"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="V1-3 RL" title="DPDT Relay" id="854770770"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="AUX PSU C1 +24" title="Net Label" id="855100060"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="V1-1 RL" title="DPDT Relay" id="854770850"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="MAV RL" title="DPDT Relay" id="854689510"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="V1-1 RL" title="DPDT Relay" id="854770850"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="MAV RL" title="DPDT Relay" id="854689510"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="MWV RL" title="DPDT Relay" id="854689530"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="MWV RL" title="DPDT Relay" id="854689530"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Waste Pump Contactor +" title="Net Label" id="855097680"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="WP LS RL" title="DPDT Relay" id="59860"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="WP PLC RL" title="DPDT Relay" id="59090"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="21">
+   <part label="PW PLC RL" title="DPDT Relay" id="59900"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="Pressure Washer Contactor +" title="Net Label" id="855098050"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="A1">
+   <part label="MAV RL" title="DPDT Relay" id="854689510"/>
+  </connector>
+  <connector id="connector1" name="C">
+   <part label="MAV RP" title="Diode" id="854689570"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="MAV PLC RL" title="DPDT Relay" id="59880"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="A1">
+   <part label="MWV RL" title="DPDT Relay" id="854689530"/>
+  </connector>
+  <connector id="connector1" name="C">
+   <part label="MWV RP" title="Diode" id="854689550"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="PW PLC RL" title="DPDT Relay" id="59900"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part label="V1-1 RP" title="Diode" id="854770860"/>
+  </connector>
+  <connector id="connector0" name="A1">
+   <part label="V1-1 RL" title="DPDT Relay" id="854770850"/>
+  </connector>
+  <connector id="connector6" name="O-03">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part label="V1-2 RP" title="Diode" id="854770820"/>
+  </connector>
+  <connector id="connector0" name="A1">
+   <part label="V1-2 RL" title="DPDT Relay" id="854770810"/>
+  </connector>
+  <connector id="connector9" name="O-04">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part label="V1-3 RP" title="Diode" id="854770780"/>
+  </connector>
+  <connector id="connector0" name="A1">
+   <part label="V1-3 RL" title="DPDT Relay" id="854770770"/>
+  </connector>
+  <connector id="connector10" name="O-05">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="A">
+   <part label="MAV RP" title="Diode" id="854689570"/>
+  </connector>
+  <connector id="connector7" name="A2">
+   <part label="MAV RL" title="DPDT Relay" id="854689510"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="A1">
+   <part label="WP PLC RL" title="DPDT Relay" id="59090"/>
+  </connector>
+  <connector id="connector1" name="C">
+   <part label="WP PLC RP" title="Diode" id="854107290"/>
+  </connector>
+  <connector id="connector3" name="O-00">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="22">
+   <part label="WP LS RL" title="DPDT Relay" id="59860"/>
+  </connector>
+  <connector id="connector4" name="O-01">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="A1">
+   <part label="MAV PLC RL" title="DPDT Relay" id="59880"/>
+  </connector>
+  <connector id="connector1" name="C">
+   <part label="MAV PLC RP" title="Diode" id="854104690"/>
+  </connector>
+  <connector id="connector5" name="O-02">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="A1">
+   <part label="PW PLC RL" title="DPDT Relay" id="59900"/>
+  </connector>
+  <connector id="connector1" name="C">
+   <part label="PW PLC RP" title="Diode" id="854105130"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="MAV PLC RL" title="DPDT Relay" id="59880"/>
+  </connector>
+  <connector id="connector57" name="I-05">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector55" name="I-06">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part label="WP LS RP" title="Diode" id="854104530"/>
+  </connector>
+  <connector id="connector0" name="A1">
+   <part label="WP LS RL" title="DPDT Relay" id="59860"/>
+  </connector>
+  <connector id="connector62" name="I-00">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="Level Switch -" title="Net Label" id="855126120"/>
+  </connector>
+  <connector id="connector61" name="I-01">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="12">
+   <part label="MAV PLC RL" title="DPDT Relay" id="59880"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="WP LS RL" title="DPDT Relay" id="59860"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector58" name="I-04">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="Stop Button -" title="Net Label" id="855200440"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector59" name="I-03">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="Pause Button -" title="Net Label" id="855200170"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector60" name="I-02">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="Start Button -" title="Net Label" id="855200000"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="12">
+   <part label="WP PLC RL" title="DPDT Relay" id="59090"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="NC" title="Net Label" id="854579560"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="NC" title="Net Label" id="855245630"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="NC" title="Net Label" id="855245460"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="NC" title="Net Label" id="854579540"/>
+  </connector>
+  <connector id="connector0" name="pin one">
+   <part label="NC" title="Net Label" id="854420770"/>
+  </connector>
+  <connector id="connector4" name="22">
+   <part label="WP PLC RL" title="DPDT Relay" id="59090"/>
+  </connector>
+  <connector id="connector3" name="12">
+   <part label="WP LS RL" title="DPDT Relay" id="59860"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="WP PLC RL" title="DPDT Relay" id="59090"/>
+  </connector>
+  <connector id="connector1" name="14">
+   <part label="WP PLC RL" title="DPDT Relay" id="59090"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Pumping Indicator +" title="Net Label" id="855211250"/>
+  </connector>
+  <connector id="connector26" name="O-17">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Drying Indicator +" title="Net Label" id="855211260"/>
+  </connector>
+  <connector id="connector25" name="O-16">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Washing Indicator +" title="Net Label" id="855211310"/>
+  </connector>
+  <connector id="connector22" name="O-15">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Error Light +" title="Net Label" id="855211270"/>
+  </connector>
+  <connector id="connector21" name="O-14">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Start Light +" title="Net Label" id="855211300"/>
+  </connector>
+  <connector id="connector20" name="O-13">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Pause Light +" title="Net Label" id="855211290"/>
+  </connector>
+  <connector id="connector19" name="O-12">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Stop Light +" title="Net Label" id="855211280"/>
+  </connector>
+  <connector id="connector18" name="O-11">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="PLC  PSU C1 -24" title="Net Label" id="855103020"/>
+  </connector>
+  <connector id="connector1" name="-DC24">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="PLC  PSU C1 +24" title="Net Label" id="855103030"/>
+  </connector>
+  <connector id="connector0" name="+DC24">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 2-4 p3" title="Net Label" id="855090840"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="V2-4 RL" title="DPDT Relay" id="854689610"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 2-4 p1" title="Net Label" id="855090820"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="V2-4 RL" title="DPDT Relay" id="854689610"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 2-3 p3" title="Net Label" id="855062860"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="V2-3 RL" title="DPDT Relay" id="854689620"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 2-3 p1" title="Net Label" id="855062310"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="V2-3 RL" title="DPDT Relay" id="854689620"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 2-2 p3" title="Net Label" id="855090800"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="V2-2 RL" title="DPDT Relay" id="854928360"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 2-2 p1" title="Net Label" id="855090780"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="V2-2 RL" title="DPDT Relay" id="854928360"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 2-1 p3" title="Net Label" id="855061920"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="V2-1 RL" title="DPDT Relay" id="854928350"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 2-1 p1" title="Net Label" id="855061480"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="V2-1 RL" title="DPDT Relay" id="854928350"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 1-4 p3" title="Net Label" id="855076730"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="V1-4 RL" title="DPDT Relay" id="854928340"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 1-4 p1" title="Net Label" id="855076160"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="V1-4 RL" title="DPDT Relay" id="854928340"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Water Valve p3" title="Net Label" id="855085840"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="MWV RL" title="DPDT Relay" id="854689530"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Water Valve p1" title="Net Label" id="855085090"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="MWV RL" title="DPDT Relay" id="854689530"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Air Valve p3" title="Net Label" id="855084420"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="MAV RL" title="DPDT Relay" id="854689510"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Air Valve p1" title="Net Label" id="855083790"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="MAV RL" title="DPDT Relay" id="854689510"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 1-3 p3" title="Net Label" id="855068070"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="V1-3 RL" title="DPDT Relay" id="854770770"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 1-3 p1" title="Net Label" id="855068050"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="V1-3 RL" title="DPDT Relay" id="854770770"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 1-2 p3" title="Net Label" id="855066410"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="V1-2 RL" title="DPDT Relay" id="854770810"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 1-2 p1" title="Net Label" id="855066390"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="V1-2 RL" title="DPDT Relay" id="854770810"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 1-1 p3" title="Net Label" id="855061150"/>
+  </connector>
+  <connector id="connector5" name="21">
+   <part label="V1-1 RL" title="DPDT Relay" id="854770850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin one">
+   <part label="Valve 1-1 p1" title="Net Label" id="855059250"/>
+  </connector>
+  <connector id="connector2" name="11">
+   <part label="V1-1 RL" title="DPDT Relay" id="854770850"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector43" name="I-17">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector28" name="O-19">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector35" name="I-24">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector51" name="I-10">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector32" name="I-27">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector37" name="I-22">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector38" name="I-21">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector48" name="I-12">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector31" name="NC">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector54" name="I-07">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector39" name="I-20">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector33" name="I-26">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector34" name="I-25">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector46" name="I-14">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector42" name="I-18">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector30" name="NC">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector53" name="I-08">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector47" name="I-13">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector52" name="I-09">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector44" name="I-16">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector41" name="I-19">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector27" name="O-18">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector36" name="I-23">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector50" name="I-11">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector45" name="I-15">
+   <part label="Allen Bradley Micro 850" title="Micro 850" id="854565430"/>
+  </connector>
+ </net>
+</netlist>

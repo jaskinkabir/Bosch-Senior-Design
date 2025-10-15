@@ -1,0 +1,53 @@
+,Net Name,# Nodes,External?,Type
+0,AUX PSU C1 -24,64,True,Interconnection
+1,PLC O-10,3,False,PLC Output
+2,PLC O-09,3,False,PLC Output
+3,PLC O-08,3,False,PLC Output
+4,PLC O-07,3,False,PLC Output
+5,PLC O-06,3,False,PLC Output
+6,AUX PSU C2 +24,34,True,AUX PSU C2 +24
+7,Waste Pump Contactor +,3,True,Logical Output
+8,Pressure Washer Contactor +,2,True,Logical Output
+9,MAV RL PA1,3,False,Interconnection
+10,MWV RL PA1,3,False,Interconnection
+11,PLC O-03,3,False,PLC Output
+12,PLC O-04,3,False,PLC Output
+13,PLC O-05,3,False,PLC Output
+14,PLC O-00,3,False,PLC Output
+15,PLC O-01,2,False,PLC Output
+16,PLC O-02,3,False,PLC Output
+17,PLC I-05,5,False,PLC Input
+18,MAV PLC RL P12,2,False,Interconnection
+19,Stop Button -,2,True,PLC Input
+20,Pause Button -,2,True,PLC Input
+21,Start Button -,2,True,PLC Input
+22,Level Switch -,5,True,PLC Input
+23,Pumping Indicator +,2,True,PLC Output
+24,Drying Indicator +,2,True,PLC Output
+25,Washing Indicator +,2,True,PLC Output
+26,Error Light +,2,True,PLC Output
+27,Start Light +,2,True,PLC Output
+28,Pause Light +,2,True,PLC Output
+29,Stop Light +,2,True,PLC Output
+30,PLC  PSU C1 -24,2,True,PLC  PSU C1 -24
+31,PLC  PSU C1 +24,2,True,PLC  PSU C1 +24
+32,Valve 2-4 p3,2,True,Logical Output
+33,Valve 2-4 p1,2,True,Logical Output
+34,Valve 2-3 p3,2,True,Logical Output
+35,Valve 2-3 p1,2,True,Logical Output
+36,Valve 2-2 p3,2,True,Logical Output
+37,Valve 2-2 p1,2,True,Logical Output
+38,Valve 2-1 p3,2,True,Logical Output
+39,Valve 2-1 p1,2,True,Logical Output
+40,Valve 1-4 p3,2,True,Logical Output
+41,Valve 1-4 p1,2,True,Logical Output
+42,Water Valve p3,2,True,Logical Output
+43,Water Valve p1,2,True,Logical Output
+44,Air Valve p3,2,True,Logical Output
+45,Air Valve p1,2,True,Logical Output
+46,Valve 1-3 p3,2,True,Logical Output
+47,Valve 1-3 p1,2,True,Logical Output
+48,Valve 1-2 p3,2,True,Logical Output
+49,Valve 1-2 p1,2,True,Logical Output
+50,Valve 1-1 p3,2,True,Logical Output
+51,Valve 1-1 p1,2,True,Logical Output
