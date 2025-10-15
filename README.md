@@ -19,10 +19,17 @@ I then designed a relay-interlocking system that ensures, in hardware, the follo
 ![PLC_wiring](images/Diagrams/PLC-Wiring.png)
 - Once the PLC was chosen, I created a wiring diagram for the PLC, the relays, and the relay protectors
 - This diagram was extremely useful when I eventually assembled the system
+## Python Netlist Analyzer
+- Once I created the Fritzing diagram, I exported the netlist as an XML file
+- I then wrote a Python script to analyze this netlist and convert it into a CSV file that contains each net, the number of nodes, and whether or not the net includes a node external to the PLC enclosure
+- I used this CSV file for these purposes:
+	- To gauge how much wire I needed to buy and of what color (since I assigned each net type a different color)
+	- To figure out how many pins the external connectors needed
+	- To make checking my final wiring against the initial design much easier
 # Plywood Wiring
 ![wood_wiring](images/wood_wiring.jpg)
 - Due to ordering issues, the PLC enclosure did not arrive alongside the PLC and all its related components. 
-- So as to not waste any time, I mounted all the components to a piece of plywood I bought from Home Depot and started cutting, labeling, and routing the wires
+- So as to not waste any time, I mounted all the components to a piece of plywood I bought from Home Depot and started cutting, labeling, and routing the wires according to the diagram and the CSV file
 # Final Wiring
 ![wiring_no_cover](images/wiring_no_cover.jpg)
 ![final_wiring](images/final_wiring.jpg)
