@@ -6,10 +6,10 @@ The project overview and final mechanical design can be seen in this poster
 
 # Initial Design
 I began the design process by mapping out the Process Flow Diagram for the overall system, focusing on efficiency and robustness. My PLC system needed to control power to the pressure washer, the wastewater disposal pump, and the solenoid valves that control the flow of clean water, wastewater, and compressed air for drying.
-![PFD](images/Diagrams/PLC-Process-Diagram.png)
+![PFD](images/Diagrams/Process_Diagram.drawio.png)
 
 ## Relay Interlocking System
-![relay_interlocking](PLC-Relay-Interlocking.png)
+![relay_interlocking](images/Diagrams/PLC-Relay-Interlocking.png)
 I then designed a relay-interlocking system that ensures, in hardware, the following restrictions
 - The pressure washer cannot be powered on, nor the water input solenoid be open while the compressed air solenoid is open
 	- This is to ensure water does not enter Bosch's compressed air system
@@ -24,16 +24,16 @@ I then designed a relay-interlocking system that ensures, in hardware, the follo
 - Due to ordering issues, the PLC enclosure did not arrive alongside the PLC and all its related components. 
 - So as to not waste any time, I mounted all the components to a piece of plywood I bought from Home Depot and started cutting, labeling, and routing the wires
 # Final Wiring
-![wiring_no_cover](wiring_no_cover.jpg)
-![final_wiring](final_wiring.jpg)
+![wiring_no_cover](images/wiring_no_cover.jpg)
+![final_wiring](images/final_wiring.jpg)
 - Once the enclosure for the PLC system arrived, I transferred over the components and wires from the plywood into the new enclosure
 - I am very proud of the organization and cleanliness of the assembled system
 
 # HMI Design
 - For the control interface, I used a touchscreen HMI panel for displaying the system's state, and 3 physical buttons for controlling the machine
 - I began with a wiring diagram:
-![fp_wiring](front-panel-wiring.png)
+![fp_wiring](images/Diagrams/front-panel-wiring.png)
 - I then wired together the HMI enclosure and ran a waterproof cable to connect it to the PLC
 # Conclusion
-![final_box](final_box.jpg)
+![final_box](images/final_box.jpg)
 Regrettably, due to timing constraints and ordering mishaps, I did not have the time to program the PLC. However, I still gained valuable experience from this project.
